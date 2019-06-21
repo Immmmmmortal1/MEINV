@@ -1,0 +1,19 @@
+platform :ios, '8.0'
+
+use_frameworks!
+
+target'MEINV'do
+
+    
+pod 'AFNetworking'
+
+
+pod 'UMCCommon'
+pod 'UMCSecurityPlugins'
+pod 'UMCAnalytics'
+
+pod 'JPush'
+
+pod 'HandyJSON'
+
+end
