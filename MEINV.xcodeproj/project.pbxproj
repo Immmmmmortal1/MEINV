@@ -20,6 +20,7 @@
 		A950E37B22B55A17007536D2 /* ImageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A950E37A22B55A17007536D2 /* ImageManager.swift */; };
 		A950E37D22B55A22007536D2 /* Sounds.swift in Sources */ = {isa = PBXBuildFile; fileRef = A950E37C22B55A22007536D2 /* Sounds.swift */; };
 		A950E37F22B55AA5007536D2 /* UserProtocolViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A950E37E22B55AA5007536D2 /* UserProtocolViewController.swift */; };
+		A96A9E0222BCD3B000441A5B /* MineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96A9E0122BCD3B000441A5B /* MineViewController.swift */; };
 		A97C6E0B22B28060003D2205 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A97C6E0A22B28060003D2205 /* AppDelegate.swift */; };
 		A97C6E1122B28060003D2205 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = A97C6E1022B28060003D2205 /* GameScene.swift */; };
 		A97C6E1322B28060003D2205 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A97C6E1222B28060003D2205 /* GameViewController.swift */; };
@@ -50,6 +51,7 @@
 		A950E37E22B55AA5007536D2 /* UserProtocolViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProtocolViewController.swift; sourceTree = "<group>"; };
 		A950E38022B60FEA007536D2 /* MEINV.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MEINV.entitlements; sourceTree = "<group>"; };
 		A950E38122B60FFE007536D2 /* MEINV-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MEINV-Bridging-Header.h"; sourceTree = "<group>"; };
+		A96A9E0122BCD3B000441A5B /* MineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MineViewController.swift; sourceTree = "<group>"; };
 		A97C6E0722B28060003D2205 /* MEINV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MEINV.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A97C6E0A22B28060003D2205 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A97C6E1022B28060003D2205 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 				A950E37022B5436B007536D2 /* StartScene.swift */,
 				A97C6E1222B28060003D2205 /* GameViewController.swift */,
 				A950E37E22B55AA5007536D2 /* UserProtocolViewController.swift */,
+				A96A9E0122BCD3B000441A5B /* MineViewController.swift */,
 				A97C6E2622B2911D003D2205 /* MEINVManager.swift */,
 				A97C6E2C22B294E8003D2205 /* MEINVModelManager.swift */,
 				A97C6E2822B29282003D2205 /* QuestionModel.swift */,
@@ -294,6 +297,7 @@
 				A97C6E2722B2911D003D2205 /* MEINVManager.swift in Sources */,
 				A97C6E2922B29282003D2205 /* QuestionModel.swift in Sources */,
 				A950E36322B5215E007536D2 /* Color.swift in Sources */,
+				A96A9E0222BCD3B000441A5B /* MineViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
